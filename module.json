@@ -1,0 +1,11 @@
+{
+    "author": "dev8213",
+    "name": "anti-crash/megaphone",
+    "disableAutoUpdate": true,
+    "servers": [""],
+    "options": {
+        "niceName": "Crash",
+        "guiName": "Crash",
+        "reloadable": true
+    }
+}
